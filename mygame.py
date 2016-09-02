@@ -1,3 +1,9 @@
+# This is my first attempt at making a text based "choose your own adventure" game.
+# My goal for this game is to allow the user to make choices about their journey based on input
+# Another goal was to have a global variable, the key, and experiment with how the output would change if the user made the 
+# same choice with a different global variable value. 
+
+
 from sys import exit #allows me to use the exit function to quit python when game ends
 
 # This function will do all the choice formatting for me. All I need to do is type in the choices as str. 
